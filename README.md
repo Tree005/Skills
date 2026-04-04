@@ -26,10 +26,9 @@
 
 | 工具 | 说明 |
 |------|------|
-| [WorkBuddy](https://www.codebuddy.cn/fission/?inviteCode=z98aolvbdysh1) | AI Agent，Skill 原生运行环境 ← 推荐 |
+| [WorkBuddy](https://www.codebuddy.cn/fission/?inviteCode=z98aolvbdysh1) | AI Agent ← 推荐 |
 | [Obsidian](https://obsidian.md/) | 本地 Markdown 笔记软件，搭配笔记类 Skill 食用最佳 |
-| [Claude Code](https://claude.ai/code) | Anthropic 出品的 AI Agent，支持 Skill 格式 |
-| [Trae](https://www.trae.ai/) | AI Agent，支持 Skill 格式 |
+
 
 ## 📋 许可
 
