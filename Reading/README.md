@@ -1,4 +1,4 @@
-# 阅读指导技能 (Reading Guide)
+# 阅读指导.Skill (Reading Guide)
 
 ## 技能概述
 
