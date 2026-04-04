@@ -14,14 +14,12 @@
 
 ## 推荐搭配
 
-这个 skill 的笔记输出是 Markdown 格式，搭配以下工具使用体验最佳：
-
+这个 skill 的笔记输出是 Markdown 格式，推荐WorkBuddy+Obsidian食用最佳：
+WorkBuddy 登录注册即可白嫖积分
 | 工具 | 类型 | 说明 |
 |------|------|------|
 | [Obsidian](https://obsidian.md/) | 笔记软件 | 笔记直接存储在本地文件夹中，打开即看、双向链接、随时编辑。**最佳搭档** |
 | [WorkBuddy](https://www.codebuddy.cn/fission/?inviteCode=z98aolvbdysh1) | AI Agent | 本 skill 的原生运行环境，开箱即用 ← **推荐** |
-| [Claude Code](https://claude.ai/code) | AI Agent | 支持 Skill 格式，可直接加载使用 |
-| [Trae](https://www.trae.ai/) | AI Agent | 支持 Skill 格式，可直接加载使用 |
 
 > **建议用法**：将阅读笔记文件夹配置为 Obsidian Vault 的一部分，AI 生成的笔记直接在 Obsidian 中浏览、编辑、关联。这样你的阅读笔记就是一个**活的、可检索、可互联的知识网络**。
 
