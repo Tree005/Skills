@@ -1,6 +1,6 @@
 # 🧩 My AI Skills
 
-为 **WorkBuddy** / **Claude Code** / **Trae** 等 AI Agent 打造的 Skill 合集。
+我觉得好用的 AI Agent Skill 合集，适用于 **WorkBuddy** / **Claude Code** / **Trae** 等工具。
 
 每个 Skill 独立维护，点击下方链接进入对应仓库查看详情和安装说明。
 
