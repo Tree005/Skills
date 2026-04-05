@@ -11,6 +11,7 @@
 | Skill | 说明 | 链接 |
 |-------|------|------|
 | 📖 阅读指导 | 读书搭档风格的阅读辅助，三种模式陪你独立思考 | [reading-guide](Reading/) |
+| 🎨 设计规范 | 收集各大知名网站的 DESIGN.md，让 AI 照着生成好看的 UI（原作者：VoltAgent） | [awesome-design-md](awesome-design-md/) |
 
 > 持续更新中...
 
@@ -19,10 +20,10 @@
 ## 🔧 使用方式
 
 1. 选择你需要的 Skill，进入对应文件夹
-2. 按仓库中的 README 说明安装到 `~/.workbuddy/skills/` 下
+2. 按各 Skill 的 README 说明安装到对应的 Agent skills 目录下（如 WorkBuddy 的 `~/.workbuddy/skills/`）
 3. 在对应的 Agent 中即可使用
 
-## 💡 推荐搭配
+## 💡 工具推荐
 
 | 工具 | 说明 |
 |------|------|
