@@ -1,4 +1,4 @@
-# 阅读指导.Skill (Reading Guide)
+# 阅读.Skill (Reading Guide)
 
 ## 技能概述
 
@@ -102,7 +102,7 @@ WorkBuddy 登录注册即可白嫖积分
 
 ### 第 1 步：复制文件
 
-将整个 `reading-guide` 文件夹复制到 `~/.workbuddy/skills/` 下：
+将整个 `Reading` 文件夹复制到 `~/.workbuddy/skills/` 下：
 
 ```
 ~/.workbuddy/skills/reading-guide/
