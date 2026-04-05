@@ -12,14 +12,14 @@
 | 🔍 全书概览 | "这本书讲了什么""帮我梳理" | 一句话总结 + 核心主题 + 章节脉络 |
 | 🌱 消化输出 | "帮我消化""有什么启发" | 连接生活 → 提炼行动 → 批判反思 |
 
-## 推荐搭配
+## 工具推荐
 
 这个 skill 的笔记输出是 Markdown 格式，推荐WorkBuddy+Obsidian食用最佳：
 WorkBuddy 登录注册即可白嫖积分
 | 工具 | 类型 | 说明 |
 |------|------|------|
 | [Obsidian](https://obsidian.md/) | 笔记软件 | 笔记直接存储在本地文件夹中，打开即看、双向链接、随时编辑。**最佳搭档** |
-| [WorkBuddy](https://www.codebuddy.cn/fission/?inviteCode=z98aolvbdysh1) | AI Agent | 本 skill 的原生运行环境，开箱即用 ← **推荐** |
+| [WorkBuddy](https://www.codebuddy.cn/fission/?inviteCode=z98aolvbdysh1) | AI Agent | 推荐搭配使用，登录注册即可白嫖积分 ← **推荐** |
 
 > **建议用法**：将阅读笔记文件夹配置为 Obsidian Vault 的一部分，AI 生成的笔记直接在 Obsidian 中浏览、编辑、关联。这样你的阅读笔记就是一个**活的、可检索、可互联的知识网络**。
 
@@ -102,7 +102,7 @@ WorkBuddy 登录注册即可白嫖积分
 
 ### 第 1 步：复制文件
 
-将整个 `Reading` 文件夹复制到 `~/.workbuddy/skills/` 下：
+将整个 `Reading-guide` 文件夹复制到对应的 Agent skills 目录下（如 `~/.workbuddy/skills/`）：
 
 ```
 ~/.workbuddy/skills/reading-guide/
