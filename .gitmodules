@@ -1,3 +1,6 @@
 [submodule "awesome-design-md"]
 	path = awesome-design-md
 	url = https://github.com/VoltAgent/awesome-design-md
+[submodule "decision-clarity-skill"]
+	path = decision-clarity-skill
+	url = https://github.com/shanezzzz/decision-clarity-skill
