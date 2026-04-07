@@ -4,3 +4,6 @@
 [submodule "decision-clarity-skill"]
 	path = decision-clarity-skill
 	url = https://github.com/shanezzzz/decision-clarity-skill
+[submodule "Khazix-Skills"]
+	path = Khazix-Skills
+	url = https://github.com/KKKKhazix/Khazix-Skills
